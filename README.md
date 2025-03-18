@@ -36,7 +36,7 @@ Make sure you have **Python, Node.js, and MongoDB** installed on your system.
 
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/harshsingh1112/AI-crime-detection.git
+git clone https://github.com/harshsingh1112/AI-Crime-Detection.git
 cd crime-detection-model
 ```
 
